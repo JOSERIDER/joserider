@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Álvarez</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-![Joseimage](https://github.com/joserider/joserider/blob/main/image.jpg?raw=true)
+
 
 - 🔭 I’m currently working on [Kaikoo](https://kaikoo.pro/)
 
