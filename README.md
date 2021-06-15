@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Kaikoo](https://kaikoo.pro/)
 
-- 🌱 I’m currently learning **Node.js, Express, Vue.js**
+- 🌱 I’m currently learning **Node.js, Express, MongoDB**
 
 - 📝 I regularly write articles on [https://dev.to/jose_lvarez_f4e7edbd56a8](https://dev.to/jose_lvarez_f4e7edbd56a8)
 
