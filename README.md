@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jose Álvarez</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">A passionate Full Stack developer from Spain</h3>
 
 
 
 - 🔭 I’m currently working on [Kaikoo](https://kaikoo.pro/)
 
-- 🌱 I’m currently learning **Node.js, Express, MongoDB**
+- 🌱 I’m currently learning **Node.js, Express and MongoDB**
 
 - 📝 I regularly write articles on [https://dev.to/jose_lvarez_f4e7edbd56a8](https://dev.to/jose_lvarez_f4e7edbd56a8)
 
