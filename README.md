@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jose Álvarez</h1>
-<h3 align="center">A passionate Full Stack developer from Spain</h3>
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
 
+# Welcome To My GitHub Profile !
 
 
 - 🔭 I’m currently working on [Kaikoo](https://kaikoo.pro/)
@@ -10,6 +12,20 @@
 - 📝 I regularly write articles on [https://dev.to/jose_lvarez_f4e7edbd56a8](https://dev.to/jose_lvarez_f4e7edbd56a8)
 
 - 📫 How to reach me **jose.at@pm.me**
+
+
+<div style="display:block;">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joserider&theme=onedark)
+
+</div>
+
+<div style="display:block;">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joserider&langs_count=8&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
