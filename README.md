@@ -1,8 +1,9 @@
+# Welcome To My GitHub Profile !
+
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://github.com/joserider/joserider/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-# Welcome To My GitHub Profile !
 
 
 - 🔭 I’m currently working on [Kaikoo](https://kaikoo.pro/)
@@ -13,14 +14,7 @@
 
 - 📫 How to reach me **jose.at@pm.me**
 
-
-<div style="display:block;">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joserider&theme=onedark)
-
-</div>
-
-<div style="display:block;">
+<div >
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joserider&langs_count=8&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
