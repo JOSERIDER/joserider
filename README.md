@@ -1,12 +1,13 @@
-# Welcome To My GitHub Profile !
+# Hi! 👋  I'm Jose Álvarez
 
 <div align="center">
 <img src="https://github.com/joserider/joserider/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
+## Welcome to my Github profile
 
 
-- 🔭 I’m currently working on [Kaikoo](https://kaikoo.pro/)
+- 🔭 I’m currently working on [Kairós DS](https://https://www.kairosds.com/)
 
 - 🌱 I’m currently learning **Node.js, Express and MongoDB**
 
